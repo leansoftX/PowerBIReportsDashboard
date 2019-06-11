@@ -16,13 +16,13 @@ You should use it with configured Power BI report server with the following cond
 ## Quick Start
 
 1. Step into the collection settings and add a service endpoint into Power BI Reports Settings:
-![](static/add-service-endpoint.png)
+![](add-service-endpoint.png)
 
 1. Step into the Reports hub of specific project the report folder of service endpoints:
-![](static/config-report-folder.png)
+![](config-report-folder.png)
 
 1. Get reports summary and redirect the to report detail by clicking the specific report:
-![](static/get-report-list.png)
+![](get-report-list.png)
 
 1. Pop up the embed report detail page for reference:
-![](static/report-detail.png)
+![](report-detail.png)
