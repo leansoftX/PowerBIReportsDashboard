@@ -1,4 +1,4 @@
-# Power BI report dashboard for azure devops service
+# Power BI Reports Dashboard for azure devops service
 
 This extension is mainly focus on integrate the Power BI Report Server reports with Azure DevOps Service, users can get Power BI Reports summary and redirect to specific report conveniently.
 
